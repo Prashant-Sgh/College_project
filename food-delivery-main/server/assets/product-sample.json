@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "description" : "A delicious double cheeseburger with two juicy beef patties, melted cheese, lettuce, tomato, and special sauce.",
+        "name": "Double Cheeseburger",
+        "restaurant": "Burger Heaven",
+        "rating": 4.8,
+        "price": "112.99",
+        "image": "/img/thumbnail/bc-burger.png",
+        "category": "burgers"
+    },
+    {
+        "id": 2,
+        "description": "Classic Italian pizza topped with fresh mozzarella, tomatoes, basil leaves, and a drizzle of olive oil on a thin, crispy crust.",
+        "name": "Margherita Pizza",
+        "restaurant": "Pizza Roma",
+        "rating": 4.7,
+        "price": "215.99",
+        "image": "/img/thumbnail/mpizza.png",
+        "category": "pizza"
+    },
+    {
+        "id": 3,
+        "description": "Fresh sushi roll with crab, avocado, and cucumber, wrapped in seaweed and rice, served with soy sauce and wasabi.",
+        "name": "California Roll",
+        "restaurant": "Sushi World",
+        "rating": 4.9,
+        "price": "118.99",
+        "image": "/img/thumbnail/c-roll.png",
+        "category": "sushi"
+    },
+    {
+        "id": 4,
+        "description": "Fragrant basmati rice layered with tender marinated chicken, aromatic spices, caramelized onions, and fresh herbs.",
+        "name": "hyderabadi biryani",
+        "restaurant": "Asian Fusion",
+        "rating": 4.6,
+        "price": "320",
+        "image": "/img/thumbnail/h-biriyani.png",
+        "category": "indian"
+    },
+    {
+        "id": 5,
+        "description": "Refreshing salad with crisp cucumbers, ripe tomatoes, red onions, Kalamata olives, and feta cheese, tossed with olive oil and oregano.",
+        "name": "Greek Salad",
+        "restaurant": "Mediterranean Delight",
+        "rating": 4.5,
+        "price": "62",
+        "image": "/img/thumbnail/g-salad.png",
+        "category": "healthy"
+    },
+    {
+        "id": 6,
+        "description": "Decadent warm chocolate cake with a gooey molten center, dusted with powdered sugar and served with vanilla ice cream.",
+        "name": "Chocolate Lava Cake",
+        "restaurant": "Sweet Tooth",
+        "rating": 4.9,
+        "price": "210",
+        "image": "/img/thumbnail/desert.png",
+        "category": "desserts"
+    }
+    
+]
