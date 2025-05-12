@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "vite --host --port 3000",
+    "start": "vite build && node server/index.js",
     "build": "vite build",
     "dep": "vite build && cd server && node index.js",
     "dev": "vite build && cd server && nodemon index.js",
